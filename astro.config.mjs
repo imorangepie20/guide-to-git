@@ -6,7 +6,7 @@ import starlightLinksValidator from 'starlight-links-validator';
 // https://astro.build/config
 export default defineConfig({
 	// GitHub Pages: site = https://<github-user>.github.io, base = /<repo-name>
-	site: 'https://imparangepie20.github.io',
+	site: 'https://imorangepie20.github.io',
 	base: '/guide-to-git',
 	integrations: [
 		starlight({
