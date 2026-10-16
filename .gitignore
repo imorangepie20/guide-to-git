@@ -26,3 +26,9 @@ playwright-report/
 
 # IDE
 .idea/
+
+# Claude Code (개인/로컬)
+CLAUDE.local.md
+.claude/settings.local.json
+.claude/state/
+.claude/agent-memory-local/
