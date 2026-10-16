@@ -1,0 +1,8 @@
+dist/
+.astro/
+node_modules/
+package-lock.json
+test-results/
+playwright-report/
+BOOTSTRAP.md
+docs/BOOTSTRAP.md
